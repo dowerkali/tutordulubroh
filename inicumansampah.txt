@@ -1,3 +1,4 @@
 Jadi kali ini gua belajar repository gitu lah pokoknya
-	- Karena ini wajib banget buat programmer
+	- Karena ini wajib banget buat programmer. Dan ini juga bisa dipakai untuk kebutuhan lain
 	- Dan ini sangat membantu bila ada perubahan kondisi pada kode tertentu
+	- Ini pastinya unlimited storage ya gais karena ini system clou
