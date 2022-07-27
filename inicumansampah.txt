@@ -1,0 +1,3 @@
+Jadi kali ini gua belajar repository gitu lah pokoknya
+	- Karena ini wajib banget buat programmer
+	- Dan ini sangat membantu bila ada perubahan kondisi pada kode tertentu
